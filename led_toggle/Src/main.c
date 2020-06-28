@@ -31,7 +31,7 @@ int main(void)
 	// introduce of software delay
 	for(uint32_t i = 0; i <= 300000; i++);
 
-	*pPortBOutReg &= ~(1 << 7); // SET the 7 bit 1
+	*pPortBOutReg &= ~(1 << 7); // SET the 7 bit 0
 
 	// introduce of software delay
 	for(uint32_t i = 0; i <= 300000; i++);
