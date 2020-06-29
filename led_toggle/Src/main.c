@@ -3,7 +3,7 @@
   * @file    main.c
   * @author  Oscar Alvarez
   * @version V1.0
-  * @brief   Default main function.
+  * @brief   Example on how to do software delay and turn off LED
   ******************************************************************************
 */
 
